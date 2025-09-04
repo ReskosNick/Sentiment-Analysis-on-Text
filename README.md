@@ -1,6 +1,6 @@
 # Sentiment Analysis on Text
 
-This repository contains a Jupyter Notebook implementing sentiment analysis on text data.  
+This repository contains a Jupyter Notebook implementing sentiment analysis on text data through various methods.  
 The project explores natural language processing (NLP) techniques to classify text into sentiment categories such as **joy, sadness, anger, fear, love and surprise**.
 
 ## Contents
