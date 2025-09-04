@@ -12,7 +12,7 @@ The project explores natural language processing (NLP) techniques to classify te
 - Model evaluation with accuracy and other performance metrics
 - Visualizations of sentiment distribution and results
 
-## 🛠️ Requirements
+## Requirements
 To run the notebook, install the following dependencies (you can use `pip` or `conda`):
 
 ```bash
